@@ -1,0 +1,7 @@
+name: player-is-running
+version: '1.0'
+main: me.thalissondev.playerIsRunning.PlayerIsRunning
+api-version: '1.21'
+authors: [ thalissongdev ]
+description: Message when player is running
+website: https://github.com/thalissongoncalves/mc-plugin-portfolio
