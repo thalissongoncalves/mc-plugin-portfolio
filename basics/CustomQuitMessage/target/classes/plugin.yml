@@ -1,0 +1,7 @@
+name: CustomQuitMessage
+version: '1.0'
+main: me.thalissondev.customQuitMessage.CustomQuitMessage
+api-version: '1.21'
+authors: [ thalissongdev ]
+description: Changes the server output message.
+website: https://github.com/thalissongoncalves/mc-plugin-portfolio
