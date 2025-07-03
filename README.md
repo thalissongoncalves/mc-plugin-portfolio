@@ -9,7 +9,7 @@ Olá! Meu nome é Thálisson e este é meu portfólio de plugins Minecraft desen
 
 | Nome | Descrição | Versão |
 |------|-----------|--------|
-| [Custom Quit Message](./basicos/custom-quit-message) | Altera a mensagem de saída do servidor. | v1.0 |
+| [Custom Quit Message](./basicos/CustomQuitMessage) | Altera a mensagem de saída do servidor. | v1.0 |
 
 ---
 
@@ -35,7 +35,7 @@ Hi! My name is Thálisson and this is my portfolio of Minecraft plugins develope
 
 | Name | Description | Version |
 |------|-------------|---------|
-| [Custom Quit Message](./basicos/custom-quit-message) | Changes the server quit message. | v1.0 |
+| [Custom Quit Message](./basicos/CustomQuitMessage) | Changes the server quit message. | v1.0 |
 
 ---
 
