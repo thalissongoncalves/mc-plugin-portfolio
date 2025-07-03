@@ -11,6 +11,7 @@ Olá! Meu nome é Thálisson e este é meu portfólio de plugins Minecraft desen
 |------|-----------|--------|------|
 | [Custom Quit Message](./basics/CustomQuitMessage) | Altera a mensagem de saída do servidor. | v1.0 | 03/07/2025 |
 | [Player Is Running](./basics/player-is-running) | Exibe uma mensagem ao jogador que começa a correr. | v1.0 | 03/07/2025 |
+| [Heal Yourself in Bed](./basics/heal-yourself-in-bed) | Enche a vida do jogador ao se deitar na cama. | v1.0 | 03/07/2025 |
 
 ---
 
@@ -38,6 +39,7 @@ Hi! My name is Thálisson and this is my portfolio of Minecraft plugins develope
 |------|-------------|---------|------|
 | [Custom Quit Message](./basics/CustomQuitMessage) | Changes the server quit message. | v1.0 | 2025/07/03 |
 | [Player Is Running](./basics/player-is-running) | Displays a message to the player who starts running. | v1.0 | 2025/07/03 |
+| [Heal Yourself in Bed](./basics/heal-yourself-in-bed) | Fills the player's health when lying in bed. | v1.0 | 2025/07/03 |
 
 ---
 

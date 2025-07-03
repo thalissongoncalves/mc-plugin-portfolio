@@ -1,0 +1,7 @@
+name: heal-yourself-in-bed
+version: '1.0'
+main: me.thalissondev.healYourselfInBed.HealYourselfInBed
+api-version: '1.21'
+authors: [ thalissongdev ]
+description: Heals the player's health when lying in bed
+website: https://github.com/thalissongoncalves/mc-plugin-portfolio
