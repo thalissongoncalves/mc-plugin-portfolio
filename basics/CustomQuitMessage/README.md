@@ -1,7 +1,7 @@
 ## PT-BR
 # 🚪 Custom Quit Message
 
-![custom-quit-message](./custom-quit-message.gif)
+![custom-quit-message](./custom-quit-message-2.gif)
 
 Este plugin muda a mensagem exibida quando um jogador sai do servidor.
 
@@ -32,7 +32,7 @@ website: https://github.com/thalissongoncalves/mc-plugin-portfolio
 ## EN-US
 # 🚪 Custom Quit Message
 
-![custom-quit-message](./custom-quit-message.gif)
+![custom-quit-message](./custom-quit-message-2.gif)
 
 This plugin changes the message displayed when a player leaves the server.
 
