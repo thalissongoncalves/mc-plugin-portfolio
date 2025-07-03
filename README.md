@@ -7,10 +7,10 @@ Olá! Meu nome é Thálisson e este é meu portfólio de plugins Minecraft desen
 
 ## 🟢 Básicos
 
-| Nome | Descrição | Versão |
-|------|-----------|--------|
-| [Custom Quit Message](./basics/CustomQuitMessage) | Altera a mensagem de saída do servidor. | v1.0 |
-| [Player Is Running](./basics/player-is-running) | Exibe uma mensagem ao jogador que começa a correr. | v1.0 |
+| Nome | Descrição | Versão | Data |
+|------|-----------|--------|------|
+| [Custom Quit Message](./basics/CustomQuitMessage) | Altera a mensagem de saída do servidor. | v1.0 | 03/07/2025 |
+| [Player Is Running](./basics/player-is-running) | Exibe uma mensagem ao jogador que começa a correr. | v1.0 | 03/07/2025 |
 
 ---
 
@@ -34,10 +34,10 @@ Hi! My name is Thálisson and this is my portfolio of Minecraft plugins develope
 
 ## 🟢 Basic
 
-| Name | Description | Version |
-|------|-------------|---------|
-| [Custom Quit Message](./basics/player-is-running) | Changes the server quit message. | v1.0 |
-| [Player Is Running](./basics/player-is-running) | Displays a message to the player who starts running. | v1.0 |
+| Name | Description | Version | Data |
+|------|-------------|---------|------|
+| [Custom Quit Message](./basics/CustomQuitMessage) | Changes the server quit message. | v1.0 | 2025/07/03 |
+| [Player Is Running](./basics/player-is-running) | Displays a message to the player who starts running. | v1.0 | 2025/07/03 |
 
 ---
 
